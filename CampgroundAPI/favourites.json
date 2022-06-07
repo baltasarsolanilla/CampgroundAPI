@@ -1,0 +1,134 @@
+[
+  {
+    "id": "0",
+    "type": "Feature",
+    "properties": {
+      "ASSET_DESC": "Lower Barry Creek Campground",
+      "ASSET_OWNE": "DELWP",
+      "HERITAGE_V": "No",
+      "MGA_EASTIN": 444857.0,
+      "MGA_NORTHI": 5696606.0,
+      "MGA_ZONE": "55",
+      "PARK_ID": 3308.0,
+      "PARK_NAME": "Wilsons Promontory National Park",
+      "SITE_NAME": "Lower Barry Creek, Wilsons Promontory National Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.36428014600006,
+        -38.87767315100001
+      ]
+    }
+  },
+  {
+    "id": "1",
+    "type": "Feature",
+    "properties": {
+      "ASSET_DESC": "Anglers Rest Campground",
+      "ASSET_OWNE": "DELWP",
+      "HERITAGE_V": "No",
+      "MGA_EASTIN": 543694.0,
+      "MGA_NORTHI": 5906257.0,
+      "MGA_ZONE": "55",
+      "PARK_ID": 3319.0,
+      "PARK_NAME": "Alpine National Park",
+      "SITE_NAME": "Anglers Rest Camping Area, Alpine National Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        147.49100208000004,
+        -36.98880399000001
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "type": "Feature",
+    "properties": {
+      "ASSET_DESC": "Taylors Crossing Camping Area",
+      "ASSET_OWNE": "DELWP",
+      "HERITAGE_V": "No",
+      "MGA_EASTIN": 558854.0,
+      "MGA_NORTHI": 5924202.0,
+      "MGA_ZONE": "55",
+      "PARK_ID": 3319.0,
+      "PARK_NAME": "Alpine National Park",
+      "SITE_NAME": "Taylors Crossing Camp Area, Alpine National Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        147.65995583999995,
+        -36.82622097000001
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "type": "Feature",
+    "properties": {
+      "ASSET_DESC": "Boreang Campground designated sites",
+      "ASSET_OWNE": "DELWP",
+      "HERITAGE_V": "No",
+      "MGA_EASTIN": 625921.0,
+      "MGA_NORTHI": 5884773.0,
+      "MGA_ZONE": "54",
+      "PARK_ID": 3316.0,
+      "PARK_NAME": "Grampians National Park",
+      "SITE_NAME": "Boreang Campground, Grampians National Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        142.41844116000004,
+        -37.17499203
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "type": "Feature",
+    "properties": {
+      "ASSET_DESC": "Fitzgeralds Hut Camping Area",
+      "ASSET_OWNE": "DELWP",
+      "HERITAGE_V": "No",
+      "MGA_EASTIN": 532381.0,
+      "MGA_NORTHI": 5918555.0,
+      "MGA_ZONE": "55",
+      "PARK_ID": 3319.0,
+      "PARK_NAME": "Alpine National Park",
+      "SITE_NAME": "Fitzgeralds Hut Camping Area, Alpine National Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        147.36335111999995,
+        -36.878402970000025
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "type": "Feature",
+    "properties": {
+      "ASSET_DESC": "Bennies Campground No 2",
+      "ASSET_OWNE": "DELWP",
+      "HERITAGE_V": "No",
+      "MGA_EASTIN": 458706.0,
+      "MGA_NORTHI": 5908774.0,
+      "MGA_ZONE": "55",
+      "PARK_ID": 3319.0,
+      "PARK_NAME": "Alpine National Park",
+      "SITE_NAME": "Bennies Camping Area, Alpine National Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        146.53610388000004,
+        -36.966223979999995
+      ]
+    }
+  }  
+]
